@@ -1,0 +1,5 @@
+# Ignore Visual Studio workspace settings
+.vs/
+
+# Ignore build output directories
+obj/
